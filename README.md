@@ -1,1 +1,1 @@
-# mini-project-SignLearn
+# SignLearn(ASL)-mini project
